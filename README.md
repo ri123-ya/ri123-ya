@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Riya Rastogi</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" width= "400" src="https://www.freepik.com/free-vector/happy-woman-work-with-tablet-office-night-vector-cartoon-background-student-designer-character-enjoy-drawing-project-late-time-workspace-cityscape-from-window-company-workplace_61393181.htm#fromView=search&page=4&position=22&uuid=fe46d616-bc0d-4e2f-a37c-acc3a9e8627d&query=Female+Programmer" alt="coding" />
+<img align="right" width= "400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1733124257~exp=1733127857~hmac=bf0c7cd19e5b720625e4946dd8cc657aacbf4c661368ba8a85171e37ad69f91b&w=900" alt="coding" />
 
 
 - 🔭 I’m currently working on [PingUp](https://github.com/ri123-ya/PingUp)
