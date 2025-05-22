@@ -7,7 +7,7 @@
 <img align="right" width= "400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1733124257~exp=1733127857~hmac=bf0c7cd19e5b720625e4946dd8cc657aacbf4c661368ba8a85171e37ad69f91b&w=900" alt="coding" />
 
 
-- 🔭 I’m currently working on [PingUp](https://github.com/ri123-ya/CodeUp)
+- 🔭 I’m currently working on [CodeUp](https://github.com/ri123-ya/CodeUp)
 
 - 🌱 I’m currently learning **AWS**
 
